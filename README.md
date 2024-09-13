@@ -49,5 +49,14 @@ Talk at [ResBaz Sydney 2023](https://resbaz.github.io/resbaz2023syd/).
 
 ## Data Science
 
+### ~2018 [Inter-rater reliability](2018_Inter-rater-reliability.pdf)
+
+> Different measures of Inter-rater reliability and when to use them:
+> - Cohen’s kappa
+> - Fleiss’ kappa
+> - Scott’s Pi
+> - Krippendorff’s alpha
+> See also [R code here](https://gdmcdonald.github.io/multi-label-inter-rater-agreement/Multi-Label_Agreement.html)
+
 ### 2017-12-05 [SVD and PCA](2017-12-05%20SVD%20and%20PCA.pdf)
 An explanation of the relationship and the difference difference between Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)
