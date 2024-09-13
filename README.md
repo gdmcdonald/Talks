@@ -56,6 +56,10 @@ Talk at [ResBaz Sydney 2023](https://resbaz.github.io/resbaz2023syd/).
 
 Small summary of work on predator-prey interactions in fish with Dr. Maud Kent, which was published in [Fine-scale behavioural adjustments of prey on a continuum of risk](https://doi.org/10.1098/rspb.2019.0448)
 
+### 2018-05-30 [OpalMiner](2018-05-30_OpalMiner_Transport_NSW_Pitchfest.pdf) at the Transport for NSW Pitchfest
+
+Pitching [opalminer.info](http://opalminer.info) - an app to analyse your public transport fare usage data, and providing advice on how to save with off-peak fares.
+
 ### ~2018 [Inter-rater reliability](2018_Inter-rater-reliability.pdf)
 
 > Different measures of Inter-rater reliability and when to use them:
