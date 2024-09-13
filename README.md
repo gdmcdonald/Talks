@@ -20,7 +20,7 @@ Research portfolio researcher spotlight talk given by [Dr. Henry Lydecker](https
 
 > Discover how AI is transforming our everyday work as researchers, and unlocking new capabilities in areas such as biotechnology, geospatial analysis, medical imagery and microscopy, conservation, and linguistics. We’ll share how the Sydney Informatics Hub is working with researchers across the university to shape the future of scientific discovery and innovation within our own research portfolio.
 
-### 2024-02-07 [Design your AI chatbot](2024-02-07_Sydney_Education_Unconference_Design_Thinking_Worksheets_A2.pdf)
+### 2024-02-07 [Design your AI chatbot](2024-02-07_Sydney_Education_Unconference_Design_Thinking_Worksheets.pdf)
 
 Concept development Worksheets for an interactive unconference session in which educators were prompted to design their own AI chatbot. During the Research education and generative AI session at the [2024 Sydney Education Unconference](https://educational-innovation.sydney.edu.au/teaching@sydney/2024-sydney-education-unconference/).
 
