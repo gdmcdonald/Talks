@@ -52,6 +52,10 @@ Talk at [ResBaz Sydney 2023](https://resbaz.github.io/resbaz2023syd/).
 
 ## Data Science
 
+### ~2019 [Predator-Prey interactions in Fish](2019%20Predator%20Prey%20Interctions%20in%20Fish.pdf)
+
+Small summary of work on predator-prey interactions in fish with Dr. Maud Kent, which was published in [Fine-scale behavioural adjustments of prey on a continuum of risk](https://doi.org/10.1098/rspb.2019.0448)
+
 ### ~2018 [Inter-rater reliability](2018_Inter-rater-reliability.pdf)
 
 > Different measures of Inter-rater reliability and when to use them:
@@ -67,4 +71,7 @@ An explanation of the relationship and the difference difference between Singula
 ### 2017-10-06 [Using Bayesian Methods to Predict Self-Discharge in the Sydney Children’s Hospital Network](2017-10-06-Discharge-Health-Data-Analytics-GordonMcDonald.pdf)
 
 A talk I gave on using Bayesian Logistic Regression on exhaust data from the hospital system to predict Discharge Against Medical Advice (DAMA), at the [Health Data Analytics](https://digitalhealth.org.au/healthdataanalytics2017/index.html) conference in Brisbane.
+
+This work was published in [Predictors of Discharge Against Medical Advice in a Tertiary Paediatric Hospital](https://doi.org/10.3390/ijerph16081326) and was followed up by [Discharge against medical advice in culturally and linguistically diverse Australian children](https://doi.org/10.1136/archdischild-2019-317063)
+
 
