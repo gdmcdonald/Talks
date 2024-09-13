@@ -78,9 +78,9 @@ A talk I gave on using Bayesian Logistic Regression on exhaust data from the hos
 
 This work was published in [Predictors of Discharge Against Medical Advice in a Tertiary Paediatric Hospital](https://doi.org/10.3390/ijerph16081326) and was followed up by [Discharge against medical advice in culturally and linguistically diverse Australian children](https://doi.org/10.1136/archdischild-2019-317063)
 
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
-    </div>
+<div align="right">
+    <img alt="Visitor Stats" 
+        src="https://widgetbite.com/stats/gdmcdonald"/>  
+</div>
 
 
