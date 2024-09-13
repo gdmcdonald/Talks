@@ -8,7 +8,7 @@
 
 Research portfolio researcher spotlight talk given by [Dr. Henry Lydecker](https://github.com/hlydecker) and myself.
 
-### 2023_11_30 [Gen-AI in Research Masterclass](2023_11_30-gen_ai_research_masterclass.pdf) [Youtube](https://www.youtube.com/watch?v=nnU8bQfR39w)
+### 2023_11_30 [Gen-AI in Research Masterclass](2023_11_30-gen_ai_research_masterclass.pdf) [(Youtube)](https://www.youtube.com/watch?v=nnU8bQfR39w)
 
 Presented by [Dr. Henry Lydecker](https://github.com/hlydecker) and Dr. Gordon McDonald of the [Sydney Informatics Hub](https://sydney.edu.au/informatics-hub), on the 30th November 2023, as part of CSIRO's National AI Month.
 
@@ -19,7 +19,7 @@ In this [Sydney Informatics Hub](https://sydney.edu.au/informatics-hub) Mastercl
 
 ### 2023-07-14 [Generative AI @ Centenary](2023_07_14-generative_ai_centenary.pdf)
 
-### 2023-02-23 [ChatGPT Masterclass](2023-02-23%20chatgpt_masterclass.pdf) [Youtube](https://www.youtube.com/watch?v=-1OIpru7dhY)
+### 2023-02-23 [ChatGPT Masterclass](2023-02-23%20chatgpt_masterclass.pdf) [(Youtube)](https://www.youtube.com/watch?v=-1OIpru7dhY)
 
 In this 1 hr masterclass, [Dr. Henry Lydecker](https://github.com/hlydecker) and Dr. Gordon McDonald from the University of Sydney's [Sydney Informatics Hub](https://sydney.edu.au/informatics-hub) discuss:
 - What ChatGPT is, 
