@@ -20,6 +20,9 @@ Research portfolio researcher spotlight talk given by [Dr. Henry Lydecker](https
 
 > Discover how AI is transforming our everyday work as researchers, and unlocking new capabilities in areas such as biotechnology, geospatial analysis, medical imagery and microscopy, conservation, and linguistics. We’ll share how the Sydney Informatics Hub is working with researchers across the university to shape the future of scientific discovery and innovation within our own research portfolio.
 
+### 2024-02-07 [Design your AI chatbot](2024-02-07_Sydney_Education_Unconference_Design_Thinking_Worksheets_A2.pdf)
+
+Concept development Worksheets for an interactive unconference session in which educators were prompted to design their own AI chatbot. During the Research education and generative AI session at the [2024 Sydney Education Unconference](https://educational-innovation.sydney.edu.au/teaching@sydney/2024-sydney-education-unconference/).
 
 ### 2023_11_30 [Gen-AI in Research Masterclass](2023_11_30-gen_ai_research_masterclass.pdf) [(Youtube)](https://www.youtube.com/watch?v=nnU8bQfR39w)
 
@@ -60,3 +63,8 @@ Talk at [ResBaz Sydney 2023](https://resbaz.github.io/resbaz2023syd/).
 
 ### 2017-12-05 [SVD and PCA](2017-12-05%20SVD%20and%20PCA.pdf)
 An explanation of the relationship and the difference difference between Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)
+
+### 2017-10-06 [Using Bayesian Methods to Predict Self-Discharge in the Sydney Children’s Hospital Network](2017-10-06-Discharge-Health-Data-Analytics-GordonMcDonald.pdf)
+
+A talk I gave on using Bayesian Logistic Regression on exhaust data from the hospital system to predict Discharge Against Medical Advice (DAMA), at the [Health Data Analytics](https://digitalhealth.org.au/healthdataanalytics2017/index.html) conference in Brisbane.
+
