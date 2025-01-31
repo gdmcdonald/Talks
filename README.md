@@ -2,6 +2,21 @@
 
 ## Generative AI
 
+### 2024-11-28 [SOLES AI Workshop -  Some thoughts on productive use of AI](2024-11-28%20SOLES%20AI%20Workshop%20-%20Gordon%20McDonald.pdf)
+
+A 10-min talk during a design thinking workshop for the Schooll of Life and Environmental Sciences, held at the Sydney Informatics Hub on 28th Nov 2024.
+
+- What can AI help you to do well?
+- What's going to go wrong?
+- What's going to stay the same as everything else accelerates exponentially?
+- Some top tips on squeezing out value rather than junk.
+
+### 2024-11-19 [AI Coding - University of Sydney Business School](2024-11-19%20AI%20Coding%20-%20Business%20School%20-%20Gordon%20McDonald.pdf)
+
+How to code yourself into a mess (& hopefully out of it again)
+
+AI coding isn't always easy once you get past the basics. Here I talk about some concepts and tools I've found helpful at increasing levels of code complexity for making productive use of AI assistance.
+
 ### 2024-09-10 [Gen-AI applications for Early-Mid Career Researchers](2024-09-10%20Gen-AI%20applications%20EMCR%20Gordon%20McDonald.pdf)
 
 Research Insights Series talk on GenAI by me, paired with a separate talk by Dr. Adele Haythornthwaite.
